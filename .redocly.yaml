@@ -2,6 +2,8 @@
 apis:
   sample@v1: 
     root: openapi/openapi.yaml
+  WellnessLiving:
+    root: wl-swagger.yaml
 lint:
   extends:
     - recommended
